@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.div img{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+
+
+}
